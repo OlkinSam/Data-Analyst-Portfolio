@@ -9,8 +9,8 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/OlkinSam/Data-Analyst-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/OlkinSam/Data-Analyst-Portfolio/blob/main/README.md#portfolio-projects)
+- [About](https://github.com/OlkinSam/Data-Analyst-Portfolio#about)
+- [Portfolio Projects](https://github.com/OlkinSam/Data-Analyst-Portfolio#portfolio-projects)
   - Python
     - [Determining best sales method through analysing sales data](https://github.com/OlkinSam/Data-Analyst-Portfolio#determining-best-sales-method-through-analysing-sales-data-pens-and-printers-company)
     - []
@@ -25,8 +25,8 @@ This is a repository to showcase skills, share projects and track my progress in
     - []
  
 
-- [Certificates](https://github.com/OlkinSam/Data-Analyst-Portfolio/blob/main/README.md#certificates)
-- [Contacts](https://github.com/OlkinSam/Data-Analyst-Portfolio/blob/main/README.md#contacts)
+- [Certificates](https://github.com/OlkinSam/Data-Analyst-Portfolio#certificates)
+- [Contacts](https://github.com/OlkinSam/Data-Analyst-Portfolio#contacts)
 
   
 ## Portfolio Projects
