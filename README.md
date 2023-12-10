@@ -13,7 +13,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](https://github.com/OlkinSam/Data-Analyst-Portfolio#portfolio-projects)
   - Python
     - [Determining best sales method through analysing sales data](https://github.com/OlkinSam/Data-Analyst-Portfolio#determining-best-sales-method-through-analysing-sales-data-pens-and-printers-company)
-    - []
+    - [Stock Market Analysis using Monte Carlo Method and web scraping](https://github.com/OlkinSam/Data-Analyst-Portfolio#stock-market-analysis-using-monte-carlo-method-and-web-scraping)
   - SQL
     - []
     - []
