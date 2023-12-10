@@ -58,6 +58,19 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** Using Power BI DAX measures and different types of data vizualization and data interactions dashboards showing all types of analysis about sales, customer details and products information.
 
+### Stock Market Analysis (Using Monte Carlo Method and web scraping)
+**Project Review:** [`Stock Market Analysis (Monte Carlo Method).ipynb`](https://github.com/OlkinSam/PortfolioProjects/blob/main/Stock%20Market%20Analysis%20(Monte%20Carlo%20Method).ipynb)
+
+**Goal:** To analyze risk in stock market.
+
+**Description:** The project focused on analyzing a dataset of stocks. The dataset included closing price, daily volume and other relevant information. The project involved scraping data from web, performing exploratory data analysis, vizualazing data, bootstrapping and implementing Monte Carlo method for risk analysis.
+
+**Skills:** data scraping, data visualization, correlation matrices, defining new functions.
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
+
+**Results:** Using Monte Carlo Method and Bootstrapping we defined and vizualized risk for investing in GOOGLE stock.
+
 
 
 
