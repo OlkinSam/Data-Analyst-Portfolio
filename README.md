@@ -33,7 +33,7 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Determining best sales method through analysing sales data (Pens and Printers Company). 
-**Code:** [`Sales Method Analysis (Pandas, Seaborn, Matplotlib).ipynb`](https://github.com/OlkinSam/PortfolioProjects/blob/main/Sales%20Method%20Analysis%20(Pandas%2C%20Seaborn%2C%20Matplotlib).ipynb)
+**Code:** [`Python Sales Method Analysis.ipynb`](https://github.com/OlkinSam/PortfolioProjects/blob/main/Sales%20Method%20Analysis%20(Pandas%2C%20Seaborn%2C%20Matplotlib).ipynb)
 
 **Goal:** To determine what sales method to use in future work.
 
@@ -59,7 +59,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Using Power BI DAX measures and different types of data vizualization and data interactions dashboards showing all types of analysis about sales, customer details and products information.
 
 ### Stock Market Analysis (Using Monte Carlo Method and web scraping)
-**Project Review:** [`Stock Market Analysis (Monte Carlo Method).ipynb`](https://github.com/OlkinSam/PortfolioProjects/blob/main/Stock%20Market%20Analysis%20(Monte%20Carlo%20Method).ipynb)
+**Code:** [`Python Stock Market Analysis.ipynb`](https://github.com/OlkinSam/PortfolioProjects/blob/main/Stock%20Market%20Analysis%20(Monte%20Carlo%20Method).ipynb)
 
 **Goal:** To analyze risk in stock market.
 
@@ -70,6 +70,19 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
 
 **Results:** Using Monte Carlo Method and Bootstrapping we defined and vizualized risk for investing in GOOGLE stock.
+
+### Online Bank SQL Analysis
+**Code:** [`SQL Online Bank.md`](https://github.com/OlkinSam/PortfolioProjects/blob/main/SQL%20Online%20Bank.md)
+
+**Goal:** To analyze customer nodes and customer transactions.
+
+**Description:** The project focused on analyzing a dataset of online bank. The dataset included transactions, regions, customer nodes and other relevant information. The project involved performing exploratory data analysis with difficult SQL queries.
+
+**Skills:** Window functions, subquery, CTE.
+
+**Technology:** MySQL.
+
+**Results:** Using MySQL I perfomed analysis for customer transactions and customer nodes as well as defined useful business metrics for furure work.
 
 
 
