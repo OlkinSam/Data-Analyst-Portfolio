@@ -12,13 +12,13 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/OlkinSam/Data-Analyst-Portfolio#about)
 - [Portfolio Projects](https://github.com/OlkinSam/Data-Analyst-Portfolio#portfolio-projects)
   - Python
-    - [Determining best sales method through analysing sales data](https://github.com/OlkinSam/Data-Analyst-Portfolio#determining-best-sales-method-through-analysing-sales-data-pens-and-printers-company)
-    - [Stock Market Analysis using Monte Carlo Method and web scraping](https://github.com/OlkinSam/Data-Analyst-Portfolio#stock-market-analysis-using-monte-carlo-method-and-web-scraping)
+    - [Determining best sales method through analysing sales data](https://github.com/OlkinSam/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#determining-best-sales-method-through-analysing-sales-data-pens-and-printers-company)
+    - [Stock Market Analysis using Monte Carlo Method and web scraping](https://github.com/OlkinSam/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#stock-market-analysis-using-monte-carlo-method-and-web-scraping)
   - SQL
-    - [SQL Online Bank Analysis](https://github.com/OlkinSam/Data-Analyst-Portfolio?tab=readme-ov-file#online-bank-sql-analysis)
-    - [SQL Pizza Runner Analysis]()
+    - [SQL Online Bank Analysis (using subqueries, window functions, cte)](https://github.com/OlkinSam/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#online-bank-sql-analysis)
+    - [SQL Pizza Runner Analysis (implementing exploratory analysis and calculating summary statistics)](https://github.com/OlkinSam/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#pizza-runner-sql-analysis)
   - Power BI
-    - [Building interactive dashboards](https://github.com/OlkinSam/Data-Analyst-Portfolio#building-interactive-dashboards-adventure-works-company)
+    - [Building interactive dashboards](https://github.com/OlkinSam/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#building-interactive-dashboards-adventure-works-company)
     - []
   - Excel
     - []
@@ -71,7 +71,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** Using Monte Carlo Method and Bootstrapping we defined and vizualized risk for investing in GOOGLE stock.
 
-### Online Bank SQL Analysis
+### Online Bank SQL Analysis (using subqueries, window functions, cte)
 **Code:** [`SQL Online Bank.md`](https://github.com/OlkinSam/PortfolioProjects/blob/main/SQL%20Online%20Bank.md)
 
 **Goal:** To analyze customer nodes and customer transactions.
@@ -84,7 +84,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** Using MySQL I perfomed analysis for customer transactions and customer nodes as well as defined useful business metrics for furure work.
 
-### Pizza Runner SQL Analysis
+### Pizza Runner SQL Analysis (implementing exploratory analysis and calculating summary statistics)
 **Code:** [`SQL Pizza Runner.md`](https://github.com/OlkinSam/PortfolioProjects/blob/main/SQL%20Pizza%20Runner.md)
 
 **Goal:** To analyze business metrics of online delivery service.
