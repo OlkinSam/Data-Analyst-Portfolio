@@ -15,8 +15,8 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Determining best sales method through analysing sales data](https://github.com/OlkinSam/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#determining-best-sales-method-through-analysing-sales-data-pens-and-printers-company)
     - [Stock Market Analysis using Monte Carlo Method and web scraping](https://github.com/OlkinSam/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#stock-market-analysis-using-monte-carlo-method-and-web-scraping)
   - SQL
-    - [SQL Online Bank Analysis (using subqueries, window functions, cte)](https://github.com/OlkinSam/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#online-bank-sql-analysis)
-    - [SQL Pizza Runner Analysis (implementing exploratory analysis and calculating summary statistics)](https://github.com/OlkinSam/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#pizza-runner-sql-analysis)
+    - [SQL Online Bank Analysis using subqueries, window functions, cte](https://github.com/OlkinSam/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#online-bank-sql-analysis)
+    - [SQL Pizza Runner Analysis. Implementing exploratory analysis and calculating summary statistics](https://github.com/OlkinSam/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#pizza-runner-sql-analysis)
   - Power BI
     - [Building interactive dashboards](https://github.com/OlkinSam/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#building-interactive-dashboards-adventure-works-company)
     - []
