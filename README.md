@@ -16,7 +16,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Stock Market Analysis using Monte Carlo Method and web scraping](https://github.com/OlkinSam/Data-Analyst-Portfolio#stock-market-analysis-using-monte-carlo-method-and-web-scraping)
   - SQL
     - [SQL Online Bank Analysis](https://github.com/OlkinSam/Data-Analyst-Portfolio?tab=readme-ov-file#online-bank-sql-analysis)
-    - []
+    - [SQL Pizza Runner Analysis]()
   - Power BI
     - [Building interactive dashboards](https://github.com/OlkinSam/Data-Analyst-Portfolio#building-interactive-dashboards-adventure-works-company)
     - []
@@ -33,7 +33,7 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Determining best sales method through analysing sales data (Pens and Printers Company). 
-**Code:** [`Python Sales Method Analysis.ipynb`](https://github.com/OlkinSam/PortfolioProjects/blob/main/Sales%20Method%20Analysis%20(Pandas%2C%20Seaborn%2C%20Matplotlib).ipynb)
+**Code:** [`Python Sales Method Analysis.ipynb`](https://github.com/OlkinSam/PortfolioProjects/blob/main/Python%20Sales%20Method%20Analysis.ipynb)
 
 **Goal:** To determine what sales method to use in future work.
 
@@ -59,7 +59,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Using Power BI DAX measures and different types of data vizualization and data interactions dashboards showing all types of analysis about sales, customer details and products information.
 
 ### Stock Market Analysis (Using Monte Carlo Method and web scraping)
-**Code:** [`Python Stock Market Analysis.ipynb`](https://github.com/OlkinSam/PortfolioProjects/blob/main/Stock%20Market%20Analysis%20(Monte%20Carlo%20Method).ipynb)
+**Code:** [`Python Stock Market Analysis.ipynb`](https://github.com/OlkinSam/PortfolioProjects/blob/main/Python%20Stock%20Market%20Analysis.ipynb)
 
 **Goal:** To analyze risk in stock market.
 
@@ -83,6 +83,19 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** MySQL.
 
 **Results:** Using MySQL I perfomed analysis for customer transactions and customer nodes as well as defined useful business metrics for furure work.
+
+### Pizza Runner SQL Analysis
+**Code:** [`SQL Pizza Runner.md`](https://github.com/OlkinSam/PortfolioProjects/blob/main/SQL%20Pizza%20Runner.md)
+
+**Goal:** To analyze business metrics of online delivery service.
+
+**Description:** The project focused on analyzing a dataset of pizza delivery service. The dataset included customer's information, runner's information, orders and other relevant information. The project involved performing exploratory data analysis with difficult SQL queries.
+
+**Skills:** Descriptive statistics, aggregate functions, CTE.
+
+**Technology:** MySQL.
+
+**Results:** Using MySQL I perfomed analysis for delivery service and identified important business metrics and correlations for future work.
 
 
 
