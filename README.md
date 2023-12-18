@@ -9,8 +9,8 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/OlkinSam/Data-Analyst-Portfolio#about)
-- [Portfolio Projects](https://github.com/OlkinSam/Data-Analyst-Portfolio#portfolio-projects)
+- [About](https://github.com/OlkinSam/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#about)
+- [Portfolio Projects](https://github.com/OlkinSam/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#portfolio-projects)
   - Python
     - [Determining best sales method through analysing sales data](https://github.com/OlkinSam/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#determining-best-sales-method-through-analysing-sales-data-pens-and-printers-company)
     - [Stock Market Analysis using Monte Carlo Method and web scraping](https://github.com/OlkinSam/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#stock-market-analysis-using-monte-carlo-method-and-web-scraping)
@@ -25,8 +25,8 @@ This is a repository to showcase skills, share projects and track my progress in
     - []
  
 
-- [Certificates](https://github.com/OlkinSam/Data-Analyst-Portfolio#certificates)
-- [Contacts](https://github.com/OlkinSam/Data-Analyst-Portfolio#contacts)
+- [Certificates](https://github.com/OlkinSam/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#certificates)
+- [Contacts](https://github.com/OlkinSam/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#certificates)
 
   
 ## Portfolio Projects
